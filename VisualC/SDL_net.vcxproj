@@ -107,7 +107,7 @@
       <EnableParallelCodeGeneration>true</EnableParallelCodeGeneration>
       <SmallerTypeCheck>false</SmallerTypeCheck>
       <StringPooling>false</StringPooling>
-      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -142,7 +142,7 @@
       <EnableParallelCodeGeneration>true</EnableParallelCodeGeneration>
       <SmallerTypeCheck>false</SmallerTypeCheck>
       <StringPooling>false</StringPooling>
-      <BufferSecurityCheck>true</BufferSecurityCheck>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
